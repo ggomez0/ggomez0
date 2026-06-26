@@ -5,11 +5,12 @@
 
 | Proyecto | Descripción | Enlace |
 | :--- | :--- | :--- |
+| **SyncMundial** | Mira los partidos de Argentina en 4k | [Visitar](https://vermundial4k.vercel.app/?referrer=git) |
 | **CloudCam** | Sistema de monitoreo IP con streaming HLS | [Visitar](https://cloudcam-alpha.vercel.app?referrer=git/) |
-| **Mercado a tu Mesa** | E-commerce local y gestión de productos | [Visitar](https://mercadoatumesa.com.ar?referrer=git/) |
+| **Mercado a tu Mesa** | E-commerce local y gestión de productos-ARCA | [Visitar](https://mercadoatumesa.com.ar?referrer=git/) |
 | **CVMuni** | Herramientas de gestión para el sector público | [Visitar](https://cvmuni.vercel.app?referrer=git/) |
-| **Asistencia Cursos** | Plataforma para capacitación técnica | [Visitar](https://asistenciacursos.vercel.app?referrer=git/) |
-| **Verdu Morena** | Identidad digital y gestión de marca | [Visitar](https://verdu-morena.vercel.app?referrer=git/) |
+| **Asistencia Cursos** | Plataforma para automatizacion de asistencias | [Visitar](https://asistenciacursos.vercel.app?referrer=git/) |
+| **CatalogoPrecios** | Productos con precios y sus variaciones | [Visitar](https://verdu-morena.vercel.app?referrer=git/) |
 
 
 </div>
