@@ -5,6 +5,7 @@
 
 | Proyecto | Descripción | Enlace |
 | :--- | :--- | :--- |
+| **JustPost** | Recibe los envíos de tus formularios HTML estáticos sin server ni BDD | [Visitar](https://justpost.online/?referrer=git) |
 | **SyncMundial** | Mira los partidos de Argentina en 4k | [Visitar](https://vermundial4k.vercel.app/?referrer=git) |
 | **CloudCam** | Sistema de monitoreo IP con streaming HLS | [Visitar](https://cloudcam-alpha.vercel.app?referrer=git/) |
 | **Mercado a tu Mesa** | E-commerce local y gestión de productos-ARCA | [Visitar](https://mercadoatumesa.com.ar?referrer=git/) |
