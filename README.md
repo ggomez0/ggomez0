@@ -5,6 +5,7 @@
 
 | Proyecto | Descripción | Enlace |
 | :--- | :--- | :--- |
+| **MyPg** | Un BaaS para Postgresql. Auth, DB, APIs, JWT. Todo self-hosting | [Visitar](https://mypg.site/?referrer=git) |
 | **JustPost** | Recibe los envíos de tus formularios HTML estáticos sin server ni BDD | [Visitar](https://justpost.online/?referrer=git) |
 | **SyncMundial** | Mira los partidos de Argentina en 4k | [Visitar](https://vermundial4k.vercel.app/?referrer=git) |
 | **CloudCam** | Sistema de monitoreo IP con streaming HLS | [Visitar](https://cloudcam-alpha.vercel.app?referrer=git/) |
