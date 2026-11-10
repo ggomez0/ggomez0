@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ggomez0&style=for-the-badge&color=blue" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ggomez0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)](https://git.io/streak-stats)
-
 | Proyecto | Descripción | Enlace |
 | :--- | :--- | :--- |
 | **MyPg** | Un BaaS para Postgresql. Auth, DB, APIs, JWT. Todo self-hosting | [Visitar](https://mypg.site/?referrer=git) |
